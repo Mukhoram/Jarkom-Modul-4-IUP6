@@ -8,10 +8,12 @@
 
 ## Question
 
+
+### CPT Topology
 <img width="413" alt="SOAL MOD4" src="https://user-images.githubusercontent.com/74299958/143679169-f9e5738b-9ef9-4720-a3e4-928140c65a1c.png">
 
 
- ## VLSM (Variable Length Subnet Masking)
+ ### VLSM (Variable Length Subnet Masking)
 | Subnet | Description | Number of IP  | Netmask |
 | ------------- | ------------- | ------------- | ------------- |
 | A1  | Courtyard - Calmbelt - Pucci   | 2021  | /21  |
@@ -30,7 +32,7 @@
 | A14 | Oimo - Fukurou                 | 2  | /30  |
 | A15 | Water7 - Foosha                | 2  | /30  |
 
-Calculations of IP <br>
+### Calculations of IP <br>
 |  | IP Network | 192.211.1.0 |
 | ------------- | ------------- | ------------- |
 | A1 | IP Range | 192.211.1.1 |
@@ -122,5 +124,5 @@ Calculations of IP <br>
 |  | IP Broadcast  | 192.211.28.167 |
 
 
-Tree <br>
+### VLSM Tree <br>
 ![messageImage_1638008668152](https://user-images.githubusercontent.com/74299958/143680064-741fe85f-7fee-4412-8609-31b6501bfda2.jpg) <br>
