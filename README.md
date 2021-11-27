@@ -30,6 +30,9 @@
 | A15 | Water7 - Foosha                | 2  | /30  |
 |  | Total               | 5845  | /19  |
 
+### Reference
+![1](https://user-images.githubusercontent.com/74056954/143680396-6cb8de2e-0119-4be9-80e2-ec1697f7b1fa.png)
+
 ### Calculations of IP <br>
 |  | IP Network | 192.211.1.0 |
 | ------------- | ------------- | ------------- |
