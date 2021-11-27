@@ -31,7 +31,7 @@
 |  | Total               | 5845  | /19  |
 
 ### Reference
-![1](https://user-images.githubusercontent.com/74056954/143680396-6cb8de2e-0119-4be9-80e2-ec1697f7b1fa.png)
+<img width="833" alt="tree cok" src="https://user-images.githubusercontent.com/74299958/143680576-f68d6193-6426-4dcc-b91b-f76fb5640c8c.png">
 
 ### Calculations of IP <br>
 |  | IP Network | 192.211.1.0 |
