@@ -126,4 +126,4 @@
 
 
 ### VLSM Tree <br>
-![messageImage_1638008668152](https://user-images.githubusercontent.com/74299958/143680064-741fe85f-7fee-4412-8609-31b6501bfda2.jpg) <br>
+<img width="833" alt="tree cok" src="https://user-images.githubusercontent.com/74299958/143680576-f68d6193-6426-4dcc-b91b-f76fb5640c8c.png"> <br>
