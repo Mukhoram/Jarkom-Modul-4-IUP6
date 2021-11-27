@@ -14,20 +14,21 @@
  ## VLSM (Variable Length Subnet Masking)
 | Subnet | Description | Number of IP  | Netmask |
 | ------------- | ------------- | ------------- | ------------- |
-| A1  | Content Cell  | Content Cell  | Content Cell  |
-| A3  | Content Cell  | Content Cell  | Content Cell  |
-| A4  | Content Cell  | Content Cell  | Content Cell  |
-| A5  | Content Cell  | Content Cell  | Content Cell  |
-| A6  | Content Cell  | Content Cell  | Content Cell  |
-| A7  | Content Cell  | Content Cell  | Content Cell  |
-| A8  | Content Cell  | Content Cell  | Content Cell  |
-| A9  | Content Cell  | Content Cell  | Content Cell  |
-| A10 | Content Cell  | Content Cell  | Content Cell  |
-| A11 | Content Cell  | Content Cell  | Content Cell  |
-| A13 | Content Cell  | Content Cell  | Content Cell  |
-| A14 | Content Cell  | Content Cell  | Content Cell  |
-| A15 | Content Cell  | Content Cell  | Content Cell  |
-
+| A1  | Courtyard - Calmbelt - Pucci   | 2021  | /21  |
+| A2  | Blueno - Foosha                | 1001  | /22  |
+| A3  | Seastone - Elena               | 721  | /22  |
+| A4  | Cipher - Water7                | 701  | /22  |
+| A5  | Jabra - Guanhao                | 521  | /22  |
+| A6  | Guanhao - Maingate - Alabasta  | 502  | /23  |
+| A7  | Enieslobby - Oimo - Seastone   | 252  | /24  |
+| A8  | Jipangu - Pucci                | 101  | /25  |
+| A9  | Alabasta - Jorge               | 13  | /28  |
+| A10 | Pucci - Water7                 | 2  | /30  |
+| A11 | Foosha - Doriki                | 2  | /30  |
+| A12 | Foosha - Guanhao               | 2  | /30  |
+| A13 | Guanhao - Oimo                 | 2  | /30  |
+| A14 | Oimo - Fukurou                 | 2  | /30  |
+| A15 | Water7 - Foosha                | 2  | /30  |
 
 Calculations of IP <br>
 <img width="209" alt="a1a5" src="https://user-images.githubusercontent.com/74299958/143679337-34723f58-1d42-4c20-a3d2-3cc361cf9b7d.png"> <br>
