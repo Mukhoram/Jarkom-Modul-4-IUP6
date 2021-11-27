@@ -28,6 +28,7 @@
 | A13 | Guanhao - Oimo                 | 2  | /30  |
 | A14 | Oimo - Fukurou                 | 2  | /30  |
 | A15 | Water7 - Foosha                | 2  | /30  |
+|  | Total               | 5845  | /19  |
 
 ### Calculations of IP <br>
 |  | IP Network | 192.211.1.0 |
