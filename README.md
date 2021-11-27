@@ -12,6 +12,11 @@
 
 IP Address total <br>
 <img width="270" alt="IP MOD4" src="https://user-images.githubusercontent.com/74299958/143679108-58a65f96-e973-4b11-a45b-a27908656c5e.png">
+ ## VLSM (Variable Length Subnet Masking)
+| Subnet | Description | Number of IP  | Netmask |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 Calculations of IP <br>
 <img width="209" alt="a1a5" src="https://user-images.githubusercontent.com/74299958/143679337-34723f58-1d42-4c20-a3d2-3cc361cf9b7d.png"> <br>
